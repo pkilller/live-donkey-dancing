@@ -9,6 +9,6 @@ Monitor the status of flowers, comments, and likes on 360 live room, and drive t
  - **LiveMonitor_Embed :** C51 embedded end, get live room status from LiveMonitor_Web, start dancing when there is a change
 
  
-![pic](./pic.jpeg)
+![pic](./pic.png)
 
 **October 2015**
